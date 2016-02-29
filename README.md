@@ -5,4 +5,4 @@ In this project, several random geometric graphs are used to model the wireless 
 This project creates a precise model for WSN in both local and global areas. They could be used to study WSN and find communication backbones effectively. By employing efficient algorithms, resource required to run these models are significantly saved. 
 
 Please refer to the following image for an abstract of the project.
-[Workflow of the project!](d.png)
+[Workflow of the project!](D.png)
